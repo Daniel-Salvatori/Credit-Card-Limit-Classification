@@ -5,6 +5,6 @@ O modelo de classificação deverá informar se o banco irá "conceder" ou "nega
 
 Modelo final entregue garantiu o 2º lugar na competição. Evento organizado pela Comunidade DS nos dias 22/10/22 e 23/10/22.
 
-Informações e dados disponiveis no [Kaggle](https://www.kaggle.com/competitions/cdshackdays3)
+Informações e dados disponíveis no [Kaggle](https://www.kaggle.com/competitions/cdshackdays3)
 
 
